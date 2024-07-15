@@ -1,6 +1,6 @@
 # rectext
 
-A Terminal UI Library that uses Rectangles and Texts to create UIElements.
+A Terminal UI Library that uses [Rectangle](./src/elements/rectangle.rs)s and [Text](./src/elements/text.rs)s to create [UIElement](./src/traits.rs)s and render them to the [Terminal](./src/traits.rs).
 
 ⚠️ Work-in-Progress
 
